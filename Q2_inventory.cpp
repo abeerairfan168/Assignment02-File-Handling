@@ -1,7 +1,7 @@
 // Name:    ABEERA IRFAN
 // Reg No:  L1F25BSCS0118
 // Assignment: 02
-// File Handling - Q1 Stock Report
+// File Handling - Q2 inventory report
 
 #include <iostream>
 #include <fstream> 
