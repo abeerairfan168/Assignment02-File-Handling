@@ -1,7 +1,7 @@
 // NAME : ABEERA IRFAN 
 //RED NO : L1F25BSCS0118
 // Assignment 02
-//FILE HANDLING Q4 HEART RATE CLEANER
+//FILE HANDLING Q4 transaction log
 #include <iostream>
 #include <fstream>
 #include <string>
