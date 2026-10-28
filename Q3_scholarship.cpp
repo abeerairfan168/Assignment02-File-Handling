@@ -1,7 +1,7 @@
 // Name:    Abeera irfan
 // Reg No:  L1F25BSCS0118
 // Assignment: 02
-// File Handling - Q2 Merit Scholarship
+// File Handling - Q2 Scholarship
 #include <iostream>
 #include <fstream>
 #include <string>
