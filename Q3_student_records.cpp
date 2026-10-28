@@ -1,7 +1,7 @@
 // Name:    Ayesha Khan
 // Reg No:  UC-1234-2024
 // Assignment: 02
-// File Handling - Q2 Merit Scholarship
+// File Handling - Q3 student records
 #include <iostream>
 #include <fstream>
 #include <string>
