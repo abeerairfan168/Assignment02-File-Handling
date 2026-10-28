@@ -1,5 +1,5 @@
-// Name:    Ayesha Khan
-// Reg No:  UC-1234-2024
+// Name:    Abeera irfan
+// Reg No:  L1F25BSCS0118
 // Assignment: 02
 // File Handling - Q3 student records
 #include <iostream>
